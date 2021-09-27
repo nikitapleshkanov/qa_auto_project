@@ -1,1 +1,0 @@
-# qa_auto_project
